@@ -1,0 +1,2 @@
+# Lenovo_ideapad_510_15IKB_Opencore
+Opencore Hackintosh EFI for Lenovo_ideapad_510_15IKB
